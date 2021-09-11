@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Noufmg a fresh grad software engineer.
+- 🌱 I’m currently learning and working on developing blockchain web dapps using PERN stack.
